@@ -1,8 +1,6 @@
 ## Info
 
-- 👋 Hi, I’m @lhw414
-- 👀 I’m interested in ML&DL, and Data Science...
-- 🌱 I’m currently learning Kaggle ML competitions.....
+- Seoul National Univ.: Computer Science&Engineering    
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlgusdn0414@snu.ac.kr)](mailto:dlgusdn0414@snu.ac.kr)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)   
@@ -31,6 +29,4 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhw414&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
