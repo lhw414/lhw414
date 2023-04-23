@@ -1,4 +1,4 @@
-## Info
+## INFO
 
 - Seoul National Univ.: Computer Science&Engineering    
 
