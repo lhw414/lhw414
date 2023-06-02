@@ -1,6 +1,6 @@
 ## INFO
 
-- Seoul National Univ.: Computer Science & Engineering    
+- Seoul National Univ. : Computer Science & Engineering    
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlgusdn0414@snu.ac.kr)](mailto:dlgusdn0414@snu.ac.kr)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)   
