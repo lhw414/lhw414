@@ -1,8 +1,8 @@
 ## INTRODUCTION & CONTACT
 
-Hello! I'm Hyunwoo LEE. I'm majoring in Computer Science and Engineering, with a keen interest in a wide array of fields including Web Development and Artificial Intelligence. 
-My passion lies in leveraging technology to solve real-world problems, and I'm always eager to explore new avenues and technologies. 
-Feel free to explore my projects and connect with me!
+Hello! I'm Hyunwoo LEE :wave:. I'm majoring in Computer Science and Engineering :mortar_board:, with a keen interest in a wide array of fields including Web Development :computer: and Artificial Intelligence :robot:. 
+My passion lies in leveraging technology to solve real-world problems :earth_asia:, and I'm always eager to explore new avenues and technologies :telescope:. 
+Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlgusdn0414@snu.ac.kr)](mailto:dlgusdn0414@snu.ac.kr)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)   
@@ -15,7 +15,7 @@ Feel free to explore my projects and connect with me!
 
 ## Education
 
-- Seoul National Univ.: Computer Science & Engineering (2020. ~ )
+- 🏫:Seoul National Univ.: Computer Science & Engineering (2020. ~ )
 
 * * *
 
