@@ -18,7 +18,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 ## Education
 
-- 🏫:Seoul National Univ.: Computer Science & Engineering (2020. ~ )
+- 🏫 : Seoul National Univ.: Computer Science & Engineering (2020. ~ )
 
 * * *
 
