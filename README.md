@@ -16,7 +16,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## Education
+## EDUCATION
 
 - 🏫 : Seoul National Univ.: Computer Science & Engineering (2020. ~ )
 
@@ -28,7 +28,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## Language
+## LANGUAGE
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,7 +41,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## Stacks
+## STACK
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
