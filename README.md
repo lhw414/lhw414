@@ -9,7 +9,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## PROJECT
+## PROJECTS
 
 + (2022.09) 🚗[**RESERVER CAR**] : [Github Link](https://github.com/lhw414/reservercar) - Carpool matching service app for reserve forces
 + (2022.12) 📤[**MWMS(Military Warehouse Management System)**] : [Github Link](https://github.com/osamhack2022/WEB_APP_MWMS_RackVisor) - Web/app services for warehouse management in the county
@@ -28,7 +28,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## LANGUAGE
+## LANGUAGES
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,7 +41,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 * * *
 
-## STACK
+## STACKS
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
