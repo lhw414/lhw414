@@ -5,7 +5,6 @@ My passion lies in leveraging technology to solve real-world problems :earth_asi
 Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlgusdn0414@snu.ac.kr)](mailto:dlgusdn0414@snu.ac.kr)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)   
 
 * * *
 
