@@ -1,6 +1,6 @@
 ## INTRODUCTION & CONTACT
 
-Hello! I'm Hyunwoo LEE :wave:. I'm majoring in Computer Science and Engineering :mortar_board:, with a keen interest in a wide array of fields including Web Development :computer: and Artificial Intelligence :robot:. 
+Hello! I'm Hyunwoo LEE :wave:. I'm majoring in Computer Science and Engineering :mortar_board:, with a keen interest in a wide array of fields including Web Development :computer: and System programming 💾. 
 My passion lies in leveraging technology to solve real-world problems :earth_asia:, and I'm always eager to explore new avenues and technologies :telescope:. 
 Feel free to explore my projects :file_folder: and connect with me :handshake:!
 
@@ -47,8 +47,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)   
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)   
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
