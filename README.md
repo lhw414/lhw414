@@ -25,6 +25,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:!
 ## COMMUNITY
 
 + (2022.10 ~ 2022.12) 💻:OSAM HACK : [Community Link](https://github.com/osamhack2022-v2)
++ (2023.09 ~ ) 🏢:Waffle Studio : [Community Link](https://github.com/wafflestudio)
 
 * * *
 
