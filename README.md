@@ -17,7 +17,7 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Repeat Layer PR Link](https://github.com/moreh-dev/MIOpen/pull/42), [Optimized Repeat PR Link](https://github.com/moreh-dev/MIOpen/pull/49) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Var Layer PR Link](https://github.com/moreh-dev/MIOpen/pull/43) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [LogSumExp Layer PR Link](https://github.com/moreh-dev/MIOpen/pull/46) <br/>
-+ (2024.10) [**NNTRAINER CONTRIBUTE**] : [Github Link](https://github.com/nnstreamer/nntrainer) - SAMSUNG's Software Framework for training Neural Network models on devices
++ (2024.10) 🧠[**NNTRAINER CONTRIBUTE**] : [Github Link](https://github.com/nnstreamer/nntrainer) - SAMSUNG's Software Framework for training Neural Network models on devices
   
 * * *
 
