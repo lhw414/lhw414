@@ -29,6 +29,12 @@ Feel free to explore my projects :file_folder: and connect with me :handshake:
 
 * * *
 
+## WORK EXPERIENCE
+
++ (2024.07 ~ 2024.08) 🏢:Moreh(Intern) : [Company Link](https://moreh.io/)
+
+* * *
+
 ## LANGUAGES
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
